@@ -1,7 +1,7 @@
 <h1>
     Hello World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    I'm <a href="https://github.com/mhgbtc">mhgbtc</a>
+    I'm <a href="https://github.com/mhgbtc">Mahougnon</a>
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40"/>
 </h1>
 
