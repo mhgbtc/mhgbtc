@@ -31,7 +31,7 @@ I am a curious, passionate and dynamic developer. I am willing to learn new thin
 - 🎓 &nbsp; I am currently a student in Software Engineering at the <a href="https://ifri-uac.bj/">Institute of Training and Research in Computer Science (IFRI)</a> of the <a href="https://uac.bj/">University of Abomey-Calavi (UAC).</a>
 - 🎓 &nbsp; I am a fellow for the **[Full Stack Development - ALX](https://www.alx-t.com/courses/full-stack-web-development/)** program.
 - 💼 &nbsp; I work at **[Lelyte](https://lelyte.net/)** as an intern in web development.
-- 💼 &nbsp; I am currently an intern at **[BSM Groupe](https://bsmgroupe.com)**.
+- 💼 &nbsp; I am currently a web developper at **[BSM Groupe](https://bsmgroupe.com)**.
 
 🖥️How do I work?
 ------------
